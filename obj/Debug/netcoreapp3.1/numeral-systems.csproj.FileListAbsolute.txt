@@ -1,0 +1,13 @@
+/home/tyler/Desktop/numeral-systems/numeral-systems/bin/Debug/netcoreapp3.1/numeral-systems
+/home/tyler/Desktop/numeral-systems/numeral-systems/bin/Debug/netcoreapp3.1/numeral-systems.deps.json
+/home/tyler/Desktop/numeral-systems/numeral-systems/bin/Debug/netcoreapp3.1/numeral-systems.runtimeconfig.json
+/home/tyler/Desktop/numeral-systems/numeral-systems/bin/Debug/netcoreapp3.1/numeral-systems.runtimeconfig.dev.json
+/home/tyler/Desktop/numeral-systems/numeral-systems/bin/Debug/netcoreapp3.1/numeral-systems.dll
+/home/tyler/Desktop/numeral-systems/numeral-systems/bin/Debug/netcoreapp3.1/numeral-systems.pdb
+/home/tyler/Desktop/numeral-systems/numeral-systems/obj/Debug/netcoreapp3.1/numeral-systems.csprojAssemblyReference.cache
+/home/tyler/Desktop/numeral-systems/numeral-systems/obj/Debug/netcoreapp3.1/numeral-systems.AssemblyInfoInputs.cache
+/home/tyler/Desktop/numeral-systems/numeral-systems/obj/Debug/netcoreapp3.1/numeral-systems.AssemblyInfo.cs
+/home/tyler/Desktop/numeral-systems/numeral-systems/obj/Debug/netcoreapp3.1/numeral-systems.csproj.CoreCompileInputs.cache
+/home/tyler/Desktop/numeral-systems/numeral-systems/obj/Debug/netcoreapp3.1/numeral-systems.dll
+/home/tyler/Desktop/numeral-systems/numeral-systems/obj/Debug/netcoreapp3.1/numeral-systems.pdb
+/home/tyler/Desktop/numeral-systems/numeral-systems/obj/Debug/netcoreapp3.1/numeral-systems.genruntimeconfig.cache
